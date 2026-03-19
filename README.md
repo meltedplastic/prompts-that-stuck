@@ -1,4 +1,4 @@
-# Prompts
+# Prompts That Stuck
 
 A growing collection of AI prompts I use every day. Each one is small, practical, and works in any AI — ChatGPT, Claude, Gemini, whatever you use.
 
@@ -11,18 +11,6 @@ Pick one. Paste it. See what happens.
 | Prompt | What it does | Time |
 |--------|-------------|------|
 | [Learn](thinking/learn) | Ask your AI what it noticed about how you work — and have it remember for next time | End of session |
-
-## 🛠 When you're building something
-
-*Coming soon*
-
-## 📋 When you're running things
-
-*Coming soon*
-
-## ✍️ When you need the right words
-
-*Coming soon*
 
 ---
 
@@ -37,9 +25,11 @@ Some prompts also have a **Claude Code** version — a one-line install that mak
 
 ---
 
-## Who am I
+## Who is Sam
 
-I'm Sam. I design products and work with AI every day. These are the prompts that actually stuck — the ones I kept coming back to because they made a real difference in how I think, build, and operate.
+I'm the design mind founders rely on to co-create, clarify ideas, and build systems that work in the real world. Based in Berlin. Currently building at [EL FIN](https://linkedin.com/in/samportillo/).
+
+These are the prompts that actually stuck — the ones I kept coming back to because they changed how I think, build, and operate with AI.
 
 New prompts drop as I find them. Star this repo to follow along.
 
