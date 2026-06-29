@@ -14,6 +14,14 @@ Pick one. Paste it. See what happens.
 
 ---
 
+## 🔨 When you're building something
+
+| Prompt | What it does | Time |
+|--------|-------------|------|
+| [Bookaudit](building/bookaudit) | Run an idea through 11 business-book lenses and get a GO/KILL verdict before you build it | Before you start building |
+
+---
+
 ## How to use
 
 1. Open a prompt
